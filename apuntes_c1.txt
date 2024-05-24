@@ -11,3 +11,5 @@ Git
 
 Copilot
 -Ser codereviewers + que codewriters
+
+nueva info
