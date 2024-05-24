@@ -1,5 +1,3 @@
-usuario: xavier.pilasi@students.salle.url.edu
-paswd: Luigifer2024
 
 Git
 -Capacidad de trabajo en equipo
