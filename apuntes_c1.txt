@@ -7,6 +7,8 @@ Git
 -Catálogo que mantiene el registro completo de cambios
 -SHA256 --> CRiptografía para el identificador de los cambios de GIT
 -Desde mi carpeta a mi catálogo y desde mi catálogo a otros catálogos
+-Un clon en github se llama fork 
+-La pull request solamente es a través de la Web
 
 
 Copilot
