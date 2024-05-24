@@ -1,0 +1,15 @@
+usuario: xavier.pilasi@students.salle.url.edu
+paswd: Luigifer2024
+
+Git
+-Capacidad de trabajo en equipo
+-Evitar conflictos en versiones
+-SCM:Software configuration manager
+-VCS: Version control system 
+-Catálogo que mantiene el registro completo de cambios
+-SHA256 --> CRiptografía para el identificador de los cambios de GIT
+-Desde mi carpeta a mi catálogo y desde mi catálogo a otros catálogos
+
+
+Copilot
+-Ser codereviewers + que codewriters
