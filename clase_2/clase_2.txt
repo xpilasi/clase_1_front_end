@@ -1,0 +1,24 @@
+Diseño en Front End
+
+UX
+comportaminetos
+necesitades
+objetivos y motivaciones
+
+cómo? --> entrevistas, encuestas,pruebas usabilidad, análisis de datos, contextos.
+Diseñar una experiencia
+
+UI
+-Diseño de interfaz gráfica
+-experiencia atractiva
+-imaginario colectivo: colores, referentes,traslandando al mundo digital
+
+UX/UI -> conforma el producto y la creación de prototipos
+
+UX roles 
+    >researcher: copmortamiento y necesidades
+    >Visual designer: apariencia visual, wireframes, guías de estilo
+    >Design system designer: reglas y normas q conforman los producttos de esa empresa
+    >Interaction designer: prototipos y flujos de trabajos
+    >Content strategist: branding de la empresa como tal,pautas de estilo, tono, texto estratégico
+    >Product designer 
