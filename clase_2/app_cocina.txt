@@ -1,0 +1,32 @@
+
+Empatizar
+    1. Cocina? Poco, vive solo pero cocina a veces cuando va donde su pareja
+    2. Busca una receta en internet
+    3. Nivel de complejidad puede ser alto si están bien las indicaciones
+    4. Poco tiempo en general
+    5. Pareja no come cerdo
+    6. Se les ocurre de forma espontánea
+    7. Experiencia cocinando
+    8. Específico interés en carnes (no cerdo)
+
+
+Definir 
+    1. Objetivos y deseos
+        >Pasarlo bien cocinando
+        >Comer bien
+    2. Insights
+        >
+    3. Problema
+        >Necesita tener muy claros los pasos a la hora de cocinar para poder
+         tener cierta claridad que la comida que saldrá cumplirá con sus 
+         expectativas        
+
+Idear: Aplicación de cocina con recetas paso a paso
+
+    I  - Requisitos
+            1. Tiene que quedar claro cuánto tiempo se demora la receta completa en estar lista
+            2. Tiene que estimar el costo aproximado de la receta
+            3. Tiene que mostrar, de manera amigable y didáctica, el paso a paso en vídeos
+
+    II - Funcionalidades 
+    

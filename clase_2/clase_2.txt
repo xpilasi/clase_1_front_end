@@ -31,3 +31,7 @@ Design Thinking: Entender al usuario e ir haciendo pruebas hasta validar (iterat
     >idear: soluciones creativas generando muchas ideas. Se utiliza mucho una matriz de ideas-->impacto (x) y esfuerzo (y)
     >Prototype: se suele hacer con Figma para probar hipótesis -->baja fidelidad, wireframes, alta fidelidad  
     >Test: volvemos al grupo inicial y se pide interaccción para obtener el feedback --> Cualitativo y cuantitativo 
+
+Metodología Lean: limpiar procesos -->Forma de enfocar la empresa que ayuda a reducir los costes con el 
+                  mejor resultado posible
+    >
