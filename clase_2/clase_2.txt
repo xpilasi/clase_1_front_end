@@ -1,4 +1,4 @@
-Diseño en Front End
+Clase 2: Diseño en Front End
 
 UX
 comportaminetos
@@ -9,9 +9,9 @@ cómo? --> entrevistas, encuestas,pruebas usabilidad, análisis de datos, contex
 Diseñar una experiencia
 
 UI
--Diseño de interfaz gráfica
--experiencia atractiva
--imaginario colectivo: colores, referentes,traslandando al mundo digital
+    >Diseño de interfaz gráfica
+    >experiencia atractiva
+    >imaginario colectivo: colores, referentes,traslandando al mundo digital
 
 UX/UI -> conforma el producto y la creación de prototipos
 
@@ -22,3 +22,12 @@ UX roles
     >Interaction designer: prototipos y flujos de trabajos
     >Content strategist: branding de la empresa como tal,pautas de estilo, tono, texto estratégico
     >Product designer 
+
+Regla nª1 UX: You are not the user
+
+Design Thinking: Entender al usuario e ir haciendo pruebas hasta validar (iterativo)
+    >Empathize: flexibilidad
+    >Definir: creas User Persona (1-5)
+    >idear: soluciones creativas generando muchas ideas. Se utiliza mucho una matriz de ideas-->impacto (x) y esfuerzo (y)
+    >Prototype: se suele hacer con Figma para probar hipótesis -->baja fidelidad, wireframes, alta fidelidad  
+    >Test: volvemos al grupo inicial y se pide interaccción para obtener el feedback --> Cualitativo y cuantitativo 
