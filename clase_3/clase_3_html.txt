@@ -1,0 +1,6 @@
+Html
+hyper text markup language
+
+Objetivo: dar estructura al texto para que el navegador pueda mostrar el documento de
+          html como el desarrollador pretende
+

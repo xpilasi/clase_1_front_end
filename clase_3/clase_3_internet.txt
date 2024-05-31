@@ -111,5 +111,5 @@ DNS: sistema de nombres de dominio, domain name system (adonde va a ir a buscar 
 URL: uniform ressource locator
 
 Protocolos de internet: 
--se manda una pregunta (un get)
+-se manda una pregunta (un get), formulario (POST)
 -se responde con un contenido a través de un navegador
