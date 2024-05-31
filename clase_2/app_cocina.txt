@@ -24,9 +24,11 @@ Definir
 Idear: Aplicación de cocina con recetas paso a paso
 
     I  - Requisitos
-            1. Tiene que quedar claro cuánto tiempo se demora la receta completa en estar lista
-            2. Tiene que estimar el costo aproximado de la receta
-            3. Tiene que mostrar, de manera amigable y didáctica, el paso a paso en vídeos
+        1. Tiene que quedar claro cuánto tiempo se demora la receta completa en estar lista
+        2. Tiene que estimar el costo aproximado de la receta
+        3. Tiene que mostrar, de manera amigable y didáctica, el paso a paso en vídeos
 
     II - Funcionalidades 
-    
+        1. Notificaciones push para preparar el fin de semana y comprar los ingredientes
+        2. 
+Test: requería la opinión de la gente tb
