@@ -1,0 +1,115 @@
+Clase_3 31/05/2024
+
+Historia del internet
+
+Arquitectura: conjunto de funciones que facilitan la comunicación
+Protocolo: conjunto desoluciones para una problemática del sistema
+
+Modelo TCP/IP --> chequear
+ Protocolos  de TCP/IP
+
+HTTP (HyperText Transfer Protocol)
+
+    Puerto: 80
+
+HTTPS (HyperText Transfer Protocol Secure)
+
+    Puerto: 443
+
+FTP (File Transfer Protocol)
+
+    Puertos: 20 (datos) y 21 (control)
+
+SSH (Secure Shell)
+
+    Puerto: 22
+
+Telnet
+
+    Puerto: 23
+
+SMTP (Simple Mail Transfer Protocol)
+
+    Puerto: 25
+
+POP3 (Post Office Protocol version 3)
+
+    Puerto: 110
+
+IMAP (Internet Message Access Protocol)
+
+    Puerto: 143
+
+DNS (Domain Name System)
+
+    Puerto: 53 (también se usa sobre UDP)
+
+TFTP (Trivial File Transfer Protocol)
+
+    Puerto: 69 (usualmente sobre UDP)
+
+SNMP (Simple Network Management Protocol)
+
+    Puertos: 161 (consulta) y 162 (notificaciones) (usualmente sobre UDP)
+
+LDAP (Lightweight Directory Access Protocol)
+
+    Puerto: 389
+
+LDAPS (LDAP over SSL)
+
+    Puerto: 636
+
+RDP (Remote Desktop Protocol)
+
+    Puerto: 3389
+
+SFTP (SSH File Transfer Protocol)
+
+    Puerto: 22 (usa SSH)
+
+SMB (Server Message Block)
+
+    Puertos: 137-139 (NetBIOS sobre TCP/IP), 445 (Direct hosting)
+
+MySQL
+
+    Puerto: 3306
+
+PostgreSQL
+
+    Puerto: 5432
+
+NTP (Network Time Protocol)
+
+    Puerto: 123 (usualmente sobre UDP)
+
+BGP (Border Gateway Protocol)
+
+    Puerto: 179
+
+IRC (Internet Relay Chat)
+
+    Puerto: 6667 (puede variar)
+
+MSSQL (Microsoft SQL Server)
+
+    Puerto: 1433
+
+RADIUS (Remote Authentication Dial-In User Service)
+
+    Puerto: 1812 (autenticación) y 1813 (contabilidad) (usualmente sobre UDP)
+
+Syslog
+
+    Puerto: 514 (usualmente sobre UDP)
+
+Modelo OSI -->chequear
+
+Dominios
+DNS: sistema de nombres de dominio, domain name system (adonde va a ir a buscar los datos)
+URL: uniform ressource locator
+
+Protocolos de internet: 
+-se manda una pregunta (un get)
+-se responde con un contenido a través de un navegador
