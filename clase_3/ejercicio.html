@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulario</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <section id="formulario">
+        <h2>Formulario</h2>
+        <form action="#">
+            <!-- 1.EMAIL -->
+            <label for="email">Email</label>
+            <input type="email" placeholder="tu@email.com" id="email">
+            <br>
+    
+            <!-- 2.FECHA DE NACIMIENTO -->
+            
+            <label for="date">Fecha de nacimiento</label>
+            <input type="date" id="date">
+            <br>
+    
+            <!-- 3.GENERO -->
+            
+            
+            <label for="genero">Género</label>
+            <select  id="genero" required>
+                <option value="">Seleccione su género</option>
+                <option value="masculino">Masculino</option>
+                <option value="femenino">Femenino</option>
+                <option value="otro">Otro</option>
+                <option value="prefiero-no-decir">Prefiero no decir</option>
+            </select>
+            <br>
+    
+            <!-- 4.COLOR FAVORITO -->
+            
+            <label for="color_favorito">Color favorito</label>
+            <input type="select"value='rojo' id="color_favorito" >
+            <br>
+    
+            <!-- 5.GENERO DE MUSICA -->
+            
+            <label for="genero_musical">Género musical</label>
+            <select id="genero" required>
+                <option value="">Género musical</option>
+                <option value="Rock">Rock</option>
+                <option value="Pop">Pop</option>
+                <option value="Reggae">Reggae</option>
+                <option value="Otro">Otro</option>
+            </select>
+            <br>
+    
+            <!-- 6.NIVEL DE VOLUMEN -->
+            
+            <label for="nivel_volumen">Nivel de volumen</label>
+            <select id="genero" required>
+                <option value="">Nivel de Volumen</option>
+                <option value="0">0</option>
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+                <option value="6">6</option>
+                <option value="7">7</option>
+                <option value="8">8</option>
+                <option value="9">9</option>
+                <option value="10">10</option>
+            </select>
+            <br>
+    
+            <!-- 7.ACEPTAR CONDICIONES -->
+            
+            <label for="aceptar_condiciones">Aceptar condiciones</label>
+            <input type="checkbox" id="aceptar_condiciones">
+            <br>
+    
+            <!-- 8.BOTON DE REGISTRO -->
+            <label for=""></label>
+            <input type="button" value="Enviar">
+        </form>
+    </section>
+    
+</body>
+</html>

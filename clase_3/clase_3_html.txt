@@ -4,3 +4,17 @@ hyper text markup language
 Objetivo: dar estructura al texto para que el navegador pueda mostrar el documento de
           html como el desarrollador pretende
 
+-->lorem
+
+Un h1 por página
+Normalmente cada sección tiene un h2 por sección
+
+Formularios
+form - action (a qué URL envío los datos) - method (post, así va encriptada)
+    label for (nick)
+        input el id tiene que coincidir con el for del label
+
+        3 botones:
+            -button
+            -submit
+            -reset
