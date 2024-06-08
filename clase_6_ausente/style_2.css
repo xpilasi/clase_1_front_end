@@ -1,0 +1,8 @@
+.menu{
+    font-weight: bold;
+    display: inline-block;
+    color: white;
+    background-color: lightblue;
+    padding: 20px;
+    padding-inline: 30px;
+}
