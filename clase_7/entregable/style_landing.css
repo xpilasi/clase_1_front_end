@@ -185,6 +185,44 @@ p{
   
   
 }
+/* PORTFOLIO */
+
+.portfolio {
+    background-color: rgb(223, 223, 223);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 30px;
+  }
+  
+  .portfolio h3 {
+    margin-bottom: 10px;
+  }
+  
+  .img_portfolio {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 40%;
+    gap: 0.3rem;
+  }
+
+  .img_rotate:hover {
+    transform: rotate(-10deg);
+    transition: all 1s ease-in-out;
+  }
+  
+  .img_circle {
+    -webkit-transition: 1s linear;
+    transition: 1s linear;
+  }
+  
+  .img_circle:hover {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+    border-radius: 50%;
+  }
+  
+  
 /* OUR SERVICES */
     
 

@@ -1,0 +1,55 @@
+clase_8 14/06
+
+Accesibilidad al internet
+-->discapacidad y no discapacidad, pero también por edad, características, entornos desfavorables,etc
+
+Estándares de la industria
+
+    -A11Y : a+ 11 letras + A11Y-
+    -Se miden por la WAI - Web Accessibility Inititive
+    -Existe pautas: guidelines, WCAG
+
+    Pautas WCAG
+
+        -Perceptible:
+
+ARIA
+
+ARIA roles are added to HTML elements using role="role type", where role type is the name of 
+a role in the ARIA specification. Some roles require the inclusion of associated ARIA states 
+or properties; others are only valid in association with other roles.
+
+For example, <ul role="tabpanel"> will be announced as a 'tab panel' by screen readers. 
+However, if the tab panel doesn't have nested tabs, the element with the tabpanel role 
+is not in fact a tab panel and accessibility has actually been negatively impacted.
+
+ARIA (Accessible Rich Internet Applications) es un conjunto de especificaciones técnicas desarrollado por el W3C (World Wide Web Consortium) que se utiliza para mejorar la accesibilidad de las aplicaciones web. Su objetivo principal es proporcionar maneras de aumentar la accesibilidad de contenido web dinámico y aplicaciones avanzadas para personas con discapacidades, particularmente aquellos que usan tecnologías de asistencia como lectores de pantalla.
+Componentes Clave de ARIA
+
+    Roles: Los roles ARIA definen el propósito de un elemento en la interfaz de usuario. Por ejemplo, role="button"
+    le indica a una tecnología de asistencia que un elemento debe ser tratado como un botón.
+
+    Propiedades: Las propiedades ARIA proporcionan información adicional sobre un elemento. Por ejemplo,
+    aria-checked="true" puede usarse en un elemento con el rol de casilla de verificación para indicar que está
+    seleccionada.
+
+    Estados: Los estados ARIA representan las condiciones dinámicas de un elemento de la interfaz de usuario. Por ejemplo, aria-expanded="false" puede indicar que una sección colapsable está actualmente cerrada.
+
+Beneficios de ARIA
+
+    Mejor Accesibilidad: Facilita la navegación y comprensión de aplicaciones web complejas para usuarios con discapacidades.
+    Compatibilidad con Tecnologías de Asistencia: Permite que los lectores de pantalla y otros dispositivos interpreten 
+    correctamente los elementos dinámicos y ricos en contenido.
+    Interacción Dinámica: Proporciona mecanismos para describir cambios en el contenido que ocurren sin una recarga de página
+     completa, como menús desplegables y modales.
+
+Ejemplos de Uso
+
+    Botones y Enlaces: <div role="button"> puede utilizarse para elementos no nativos como botones.
+    Alertas: <div role="alert"> puede comunicar información importante de manera accesible.
+    Tablas: Roles como role="grid" pueden definir tablas más complejas y dinámicas.
+
+Limitaciones
+
+    Implementación Correcta: Requiere un conocimiento adecuado para su implementación correcta.
+    Complemento, No Reemplazo: ARIA no reemplaza las prácticas de accesibilidad nativas de HTML, sino que las complementa.
