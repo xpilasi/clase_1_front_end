@@ -1,0 +1,14 @@
+Clase 7 8/06
+
+Pseudo clases
+
+> :hover
+> :visited
+> :active
+
+...
+:nth child-->hijo número x
+
+para impares:--> :nth child(2n+1){
+    
+}
