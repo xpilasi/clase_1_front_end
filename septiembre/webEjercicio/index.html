@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>- Web - </title>
+    <link href="style.css" rel="stylesheet">
+</head>
+<body>
+    <header>
+        <nav id="nav">
+            <div id="img-menu">
+                <img 
+                id="img-menu-inside"
+                src="https://img.freepik.com/psd-gratis/ilustracion-silueta-pajaro_23-2151200389.jpg?t=st=1726243119~exp=1726246719~hmac=b184b00fbb9214cc22981e9ca7f15aa79295c76ccc2bbbc50e484d1b9d8ad24e&w=826"
+                alt=""
+                width="70">
+            </div>
+            <div>MI WEB</div>
+            <div id="menu-nav-right">
+                <div id="button-menu" onclick='handleMenu()'>
+                    <svg width="31" height="31" viewBox="0 0 31 31" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        
+                        <rect y="2" width="38" height="3" fill="#D9D9D9"/>
+                        <rect y="15" width="38" height="3" fill="#D9D9D9"/>
+                        <rect y="27" width="38" height="3" fill="#D9D9D9"/>
+                        </svg>
+                </div>
+            </div> 
+            <div id="menu-visible" class="menu-visible">
+                <ul id="menu-inside">
+                    <li>Opcion 1</li>
+                    <li>Opcion 1</li>
+                </ul>
+            </div> 
+                                                                           
+    </nav>
+    </header>
+    
+    <div id="overall-layout">
+        <section id="information-left">
+            <div>
+                <form action="" onsubmit="recuperarDatosForm(event)">
+                    <input type="text" placeholder="Name" id="name">
+                    <input type="text" placeholder="Last name" id="last-name">
+                    <button id='send-info'type="submit" >Send Info</button>
+                </form>
+                <div id="nombre-completo">
+                    
+
+                </div>
+            </div>
+            <div>
+                <form action="" onsubmit="comprobarDni(event)">
+                    <input type="text" placeholder="dni" id="dni">
+                    <!-- <input type="text" placeholder="Last name" id="last-name"> -->
+                    <button id='send-info'type="submit" >Send Info</button>
+                </form>
+                <div id="respuesta-dni">
+                    
+
+                </div>
+            </div>
+        </section>
+        <section id="information-right">
+            
+        </section>
+    </div>
+    
+    
+    <footer>
+        FOOTER
+    </footer>
+</body>
+
+<script src="comprobarDni.js"></script>
+<script src="recuperarDatos.js"></script>
+</html>
